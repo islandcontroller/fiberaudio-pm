@@ -1,12 +1,14 @@
-# fiberaudio-pm [![Prototyping](https://img.shields.io/badge/status-prototyping-blue?style=plastic)]()
+# fiberaudio-pm 
+
+![Prototyping](https://img.shields.io/badge/status-prototyping-blue?style=plastic) [![license - CERN-OHL-P-2.0](https://img.shields.io/github/license/islandcontroller/fiberaudio-pm?style=plastic)](LICENSE) [![Upload to AISLER](https://img.shields.io/badge/Upload_to_-AISLER-ff8000?style=plastic)](https://aisler.net/p/new?url=https://raw.githubusercontent.com/islandcontroller/fiberaudio-pm/master/pcb/fiberaudio-pm.kicad_pcb&ref=github)
 
 A *Pmod&trade; Compatible* peripheral module featuring a pair of active optical audio transmitter/receivers.
 
-<p align="center"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="doc/overview-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="doc/overview-light.svg" />
-  <img alt="Block schematic" src="doc/overview-light.svg" />
+<p align="center">
+  <img alt="Block schematic" src="doc/preview.png" />
 </picture></p>
+
+View [**Schematic**](doc/fiberaudio-pm.pdf) &#128196; or [**PCB Preview**](https://htmlpreview.github.io/?https://github.com/islandcontroller/fiberaudio-pm/blob/master/doc/ibom.html) &#127760;.
 
 ### Key features
 

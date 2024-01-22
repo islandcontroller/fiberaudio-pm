@@ -17,6 +17,7 @@ _autosave-*
 fp-info-cache
 *-cache.lib
 *.lck
+\#auto_saved_files\#
 
 # Backups folder
 *-backups
